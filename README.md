@@ -1,5 +1,5 @@
-# java web test
+# springmvc web
 
+基于maven
 
-test
-
+一个springmvc + mybatis的初始项目结构
